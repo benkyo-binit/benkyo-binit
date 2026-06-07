@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Binit Shrestha
 
-<!--
-**benkyo-binit/benkyo-binit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics, Communication & Information Engineering Graduate
 
-Here are some ideas to get you started:
+## Interests
+- Software Development
+- AI & Machine Learning
+- Robotics
+- Embedded Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Disaster Response Drone
+Drone-based disaster monitoring system with AI analysis, GPS tracking, and a custom Ground Control Station.
+
+### Disaster Image Classification
+Deep learning project using PyTorch for disaster scene classification.
+
+### Smart Self-Balancing Robot
+Self-balancing robot with computer vision and voice interaction capabilities.
+
+## Technologies
+
+Python • C/C++ • SQL • Git • Raspberry Pi • OpenCV • PyTorch
