@@ -22,4 +22,5 @@ Drone-based disaster monitoring system with AI analysis, GPS tracking, and a cus
 ## Technologies
 
 - Engineering: Python • C/C++ • Raspberry Pi • OpenCV • PyTorch 
-- Web Technologies: HTML • CSS • JavaScript • SQL 
+- Web Technologies: HTML • CSS • JavaScript
+- Tools & Others: Git/Github • SQL
