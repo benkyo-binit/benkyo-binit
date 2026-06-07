@@ -10,14 +10,14 @@ Electronics, Communication & Information Engineering Graduate
 
 ## Featured Projects
 
-### Disaster Response Drone
-Drone-based disaster monitoring system with AI analysis, GPS tracking, and a custom Ground Control Station.
+### Smart Self-Balancing Robot
+Self-balancing robot with computer vision and voice interaction capabilities.
 
 ### Disaster Image Classification
 Deep learning project using PyTorch for disaster scene classification.
 
-### Smart Self-Balancing Robot
-Self-balancing robot with computer vision and voice interaction capabilities.
+### Disaster Response Drone
+Drone-based disaster monitoring system with AI analysis, GPS tracking, and a custom Ground Control Station.
 
 ## Technologies
 
